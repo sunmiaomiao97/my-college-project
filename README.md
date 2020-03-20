@@ -1,4 +1,4 @@
-# my-college-project
+# my-college-project：Better Fans
 大学本科期间的项目资料
 
 
